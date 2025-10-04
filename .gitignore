@@ -1,3 +1,5 @@
 node_modules
 coverage  
 coverage/lcov-report/index.html
+# coverage generado por Jest
+coverage/git commit -m "Ignorar carpeta coverage para tests"
